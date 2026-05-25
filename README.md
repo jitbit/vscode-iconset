@@ -1,3 +1,7 @@
+# This is a fork of the original Nomo Dark icon set to be published to Open VSX Registry
+
+original readme below:
+
 # Nomo Dark icon set for Visual Studio Code
 
 ![Preview](https://github.com/be5invis/vscode-iconset/raw/master/preview.png)

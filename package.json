@@ -3,11 +3,11 @@
     "displayName": "Nomo Dark Icon Theme",
     "description": "Nomo Dark Icon Theme",
     "version": "1.3.9",
-    "publisher": "be5invis",
+    "publisher": "jitbit",
     "author": {
-        "email": "belleve@typeof.net",
-        "name": "Belleve Invis",
-        "url": "https://typeof.net"
+        "email": "info@jitbit.com",
+        "name": "Jitbit",
+        "url": "https://www.jitbit.com"
     },
     "engines": {
         "vscode": "^1.5.0"
@@ -17,10 +17,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/be5invis/vscode-iconset"
+        "url": "https://github.com/jitbit/vscode-iconset"
     },
     "bugs": {
-        "url": "https://github.com/be5invis/vscode-iconset/issues"
+        "url": "https://github.com/jitbit/vscode-iconset/issues"
     },
     "keywords": [
         "icon-theme",
